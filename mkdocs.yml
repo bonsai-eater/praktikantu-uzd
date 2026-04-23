@@ -15,8 +15,6 @@ plugins:
   - live-edit:
       user_docs_dir: /home/aleksandras/Documents/praktikosuzd/docs
       websockets_port: 8484
-  - live-wysiwyg:
-      api_port: 8485
 theme:
   name: material
   palette:
