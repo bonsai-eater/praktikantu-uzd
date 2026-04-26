@@ -1,6 +1,5 @@
 nav:
   - Essentials:
+    - essentials/ssh_access.md
     - essentials/firewall.md
-  - Bare metal:
-  - Networking:
-  - Cherry services:
+    - essentials/permissions.md
