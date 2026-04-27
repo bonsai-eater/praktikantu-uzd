@@ -10,7 +10,11 @@ nav:
     - Bond: networking/bond.md
   - Bare metal:
     - Console: baremetal/console.md
-    - Server health: essentials/health_monitoring
+    - Server health:
+      - Disk health: essentials/health_monitoring/disk.md
+      - Disk health: essentials/health_monitoring/sensors.md
+      - Disk health: essentials/health_monitoring/disk
+
   - Cherry services:
     - Backup storage: cherry-services/backupstorage.md
     - Elastic Block Storage: cherry-services/ebs.md
