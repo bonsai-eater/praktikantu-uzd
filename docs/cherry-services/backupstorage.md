@@ -7,7 +7,8 @@
 - Try to delete the files and recovering from the backup.
 
 ## Automatic backups
-> This service only exists for VDS & VPS servers in the Lithuania region.
+This service only exists for VDS & VPS servers in the Lithuania region.
+
 - Order the backup service.
 - Set up a manual restore point
 - Set up automatic daily backups. You should set the time to when you expect the server's activity to be the lowest.
