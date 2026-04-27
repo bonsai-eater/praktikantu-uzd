@@ -15,4 +15,3 @@ nav:
     - Backup storage: cherry-services/backupstorage.md
     - Elastic Block Storage: cherry-services/ebs.md
     - Load balancer: cherry-services/lb.md
-
